@@ -1,0 +1,22 @@
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\casino database.exe.config
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\casino database.exe
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\casino database.pdb
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\FireSharp.dll
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\Newtonsoft.Json.dll
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\Newtonsoft.Json.xml
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\romar\source\repos\casino database\casino database\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\romar\source\repos\casino database\casino database\obj\Debug\casino database.csproj.App.config
+C:\Users\romar\source\repos\casino database\casino database\obj\Debug\casino database.csproj.AssemblyReference.cache
+C:\Users\romar\source\repos\casino database\casino database\obj\Debug\casino database.csproj.CoreCompileInputs.cache
+C:\Users\romar\source\repos\casino database\casino database\obj\Debug\casino database.csproj.CopyComplete
+C:\Users\romar\source\repos\casino database\casino database\obj\Debug\casino database.exe
+C:\Users\romar\source\repos\casino database\casino database\obj\Debug\casino database.pdb
